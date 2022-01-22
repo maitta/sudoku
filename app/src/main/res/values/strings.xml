@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sudoku</string>
+	<string name="new_game_title">Select difficulty level: </string>
+	<string name="easy_label">Easy</string>
+	<string name="medium_label">Normal</string>
+	<string name="hard_label">Difficult</string>
+	<string name="no_moves_label">No moves allowed for this tile</string>
+	<string name="clear">Clear</string>
+</resources>

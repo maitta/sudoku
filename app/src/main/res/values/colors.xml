@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="game_background">#f2f2f2</color>
+   <color name="puzzle_gridlines">#000000</color>
+   <color name="puzzle_selected_tile">#66b3ff</color>
+   <color name="keypad_background">#e6e6e6</color>
+   <color name="puzzle_main_gridlines">#003366</color>
+
+   <color name="puzzle_light">#64c6d4ef</color>
+
+   <color name="puzzle_foreground">#ff000000</color>
+
+   <color name="puzzle_hint_no_move">#ff3333</color>
+   <color name="puzzle_hint_one_move">#6400ff80</color>
+   <color name="puzzle_hint_two_moves">#2000ff80</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">sudoku</string>
+	<string name="new_game_title">Choisissez un niveau de difficulté: </string>
+	<string name="easy_label">Facile</string>
+	<string name="medium_label">Normal</string>
+	<string name="hard_label">Difficile</string>
+	<string name="no_moves_label">Aucun mouvement disponible pour ce carreau</string>
+	<string name="clear">Enlever</string>
+</resources>

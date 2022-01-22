@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_game_title">レベルを選択: </string>
+    <string name="easy_label">初級</string>
+    <string name="medium_label">中級</string>
+    <string name="hard_label">上級</string>
+    <string name="no_moves_label">ここへの選択肢無し</string>
+    <string name="clear">消去</string>
+    <string name="app_name">sudoku</string>
+</resources>

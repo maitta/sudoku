@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sudoku</string>
+    <string name="new_game_title">Scegliete il grado di difficoltà: </string>
+    <string name="easy_label">Facile</string>
+    <string name="medium_label">Regolare</string>
+    <string name="hard_label">Difficile</string>
+    <string name="no_moves_label">Non è possibile giocare per questa casella</string>
+    <string name="clear">Cancellare</string>
+</resources>

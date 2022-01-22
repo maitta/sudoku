@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sudoku</string>
+    <string name="new_game_title">Wählen Sie die Schwierigkeit an: </string>
+    <string name="easy_label">Einfach</string>
+    <string name="medium_label">Üblich</string>
+    <string name="hard_label">Schwierig</string>
+    <string name="no_moves_label">Es gibt kein Spiel mehr möglich für diese Kachel</string>
+    <string name="clear">Entfernen</string>
+</resources>

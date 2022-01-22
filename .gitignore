@@ -1,0 +1,8 @@
+/.project
+/build/
+/.gradle/
+/.idea/
+/sudoku.iml
+/local.properties
+/app/app.iml
+/import-summary.txt
